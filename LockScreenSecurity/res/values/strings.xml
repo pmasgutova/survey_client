@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Lockscreen Survey</string>
+    <string name="start_screen_text">Lockscreen Security Survey</string>
+    <string name="title_activity_lock_pattern">LockPattern</string>
+    <string name="title_activity_dot_pattern">DotPattern</string>
+    <string name="start_button">Start Survey</string>
+    <string name="pattern_button_text">Choose Pattern</string>
+    <string name="next_button_text">Next</string>
+    <string name="title_activity_send">SendActivity</string>
+    <string name="title_activity_question">Lockscreen Survey Question</string>
+    <string name="next_question">Next Question</string>
+    <string name="menu_settings">Settings</string>
+    <string name="question_placeholder">Question Text Should be Here!</string>
+    <string name="end_text">Thanks for Doing the Survey!  We will now send your data anonymously to the server.</string>
+    <string name="send_button">Send Data</string>
+    <string name="other_text">Enter Other Value Here</string>
+    <string name="draw_pattern">Enter Pattern</string>
+    <string name="string_question_text">Enter Answer Here</string>
+    <string name="send_button_string">Send Data</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_survey_end">SurveyEnd</string>
+    <string name="close_string">Close Survey</string> 
+    <string name="reset_string">Reset and Repeat</string>
+    <string name="final_text">We have now received your survey data, many thanks for participation.</string>
+    <string name="server_download">Download Survey</string>
+	<string name="ok">Start Survey</string>
+	<string name="more_info">More Information</string>
+	<string name="dialog_message">All survey data is collected and sent anonymously, for more information about the survey please read the following page</string>
+	<string name="dialog_title">Survey Information</string>
+	<string name="back_text">back</string>
+	<string name="more_info_text">
+	    The survey data will be used as part of a research into IT background and security awareness of people, which contribute to user\'s selection of more complex pattern for mobile authentication method called lock screen, and whether people\'s general perception of risk dominates when choosing the pattern.\n
+	    Research is done by Pakizat Masgutova as a final year project for BSc degree at the University of Bristol.\n
+	    All data is sent securely and anonymously to the server with no ability to trace data back to you or your device.\n
+	    All data will be held for a maximum of three months and will only be used by Pakizat Masgutova and researchers at the University of Bristol.\n
+	    For more information please feel free to email me at pm1122@my.bristol.ac.uk 
+	    </string>
+	<string name="title_more_info">More Information</string>
+	<string name="email">email</string>
+	<string name="no_connection">No questions saved and could not connect to server - please try again later</string>
+	<string name="server">http://powerful-savannah-8011.herokuapp.com/</string>
+	<string name="production_server"></string>
+	<string name="connection_error">Could not currently connect to the server, please check your Wifi or 3G settings</string>
+	<string name="shared_preference">LockScreenSecurity</string>
+</resources>

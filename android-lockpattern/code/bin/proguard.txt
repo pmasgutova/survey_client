@@ -1,0 +1,6 @@
+# view land\res/layout-land/alp_lock_pattern_activity.xml #generated:49
+# view res/layout/alp_lock_pattern_activity.xml #generated:25
+# view sw480dp-land\res/layout-sw480dp-land/alp_lock_pattern_activity.xml #generated:49
+# view sw480dp\res/layout-sw480dp/alp_lock_pattern_activity.xml #generated:25
+-keep class group.pals.android.lib.ui.lockpattern.widget.LockPatternView { <init>(...); }
+
